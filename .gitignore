@@ -1,0 +1,15 @@
+.idea
+target
+*.pdf
+axis.log
+day03mybatis.iml
+day03mybatis_01datasourceAndTx/target
+day03mybatis_01datasourceAndTx/*.iml
+day03mybatis_02dynamicSQL/target
+day03mybatis_02dynamicSQL/*.iml
+day03mybatis_03one2many/target
+day03mybatis_03one2many/*.iml
+day03mybatis_04many2many/target
+day03mybatis_04many2many/*.iml
+day03mybatis_05jndi/target
+day03mybatis_05jndi/*.iml
